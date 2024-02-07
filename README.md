@@ -2,6 +2,8 @@
 An assignment given by Matrix company for restApi automation with Python
 The following code is a home assignment by Matrix for RestApi automation testing.
 Code is Python based using the REQUESTS and JSON modules.
+The code goes over a Pokemon database and retrieves Pokemons by type and weight.
+
 Code written in VScode version: 1.79.2
 pip list: Package Version
 
