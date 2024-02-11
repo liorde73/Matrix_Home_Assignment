@@ -1,4 +1,5 @@
 # Home assignment by Lior Deckel for Matrix 07/02/2024
+# an exercise using restapi requests 
 
 import pytest
 import requests
